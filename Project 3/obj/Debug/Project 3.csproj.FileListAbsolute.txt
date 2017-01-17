@@ -1,0 +1,13 @@
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\bin\Debug\Project 3.exe.config
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\bin\Debug\Project 3.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\bin\Debug\Project 3.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\Project 3.csprojResolveAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\MainWindow.baml
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\MainWindow.g.cs
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\App.g.cs
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\Project 3_MarkupCompile.cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\Project 3.g.resources
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\Project_3.Properties.Resources.resources
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\Project 3.csproj.GenerateResource.Cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\Project 3.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 3\obj\Debug\Project 3.pdb
