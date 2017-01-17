@@ -1,0 +1,18 @@
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\bin\Debug\Project 7.exe.config
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\bin\Debug\Project 7.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\bin\Debug\Project 7.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\MainWindow.baml
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\MainWindow.g.cs
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\App.g.cs
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7_MarkupCompile.cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.g.resources
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project_7.Properties.Resources.resources
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.csproj.GenerateResource.Cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40270320\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.pdb
+F:\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\bin\Debug\Project 7.exe.config
+F:\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.exe
+F:\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.pdb
+H:\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\bin\Debug\Project 7.exe.config
+H:\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.exe
+H:\Visual Studio 2013\Projects\Project Euler\Project 1\Project 7\obj\Debug\Project 7.pdb
